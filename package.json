@@ -1,0 +1,31 @@
+{
+	"name": "theme-brightcode",
+	"version": "0.9.0",
+	"displayName": "BrightCode Theme",
+	"description": "theme by energylevel.",
+	"publisher": "energylevel",
+	"galleryBanner": {
+		"color": "#111111",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "BrightCode",
+				"uiTheme": "vs-dark",
+				"path": "./theme/brightcode.json"
+			}
+		]
+	}
+
+}
