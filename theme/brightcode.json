@@ -333,21 +333,21 @@
       "name": "[HTML] - Tags",
       "scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.tag.html",
       "settings": {
-        "foreground": "#EE119B"
+        "foreground": "#F730A0"
       }
     },
     {
       "name": "[HTML] - Attribute Name",
       "scope": "entity.other.attribute-name.html, punctuation.separator.key-value.html",
       "settings": {
-        "foreground": "#FF99FF"
+        "foreground": "#F7008C"
       }
     },
     {
       "name": "[HTML] - Attribute Value",
       "scope": "string.quoted.double.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html",
       "settings": {
-        "foreground": "#F03577"
+        "foreground": "#FF00FF"
       }
     },
     {
