@@ -2,8 +2,9 @@
 	"name": "theme-brightcode",
 	"version": "0.9.0",
 	"displayName": "BrightCode Theme",
-	"description": "theme by energylevel.",
+	"description": "Vivid theme for web design/development, ideal for mixed code files - helps distinguish at a glance HTML, PHP, JS and CSS code.",
 	"publisher": "energylevel",
+	"icon": "images/logo.png",
 	"galleryBanner": {
 		"color": "#111111",
 		"theme": "dark"
