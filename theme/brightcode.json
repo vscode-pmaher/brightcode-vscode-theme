@@ -576,7 +576,21 @@
       "scope": "meta.function.php, entity.name.function.php, keyword.control.import.include.php",
       "settings": {
         "foreground": "#FF5C26"
-      }
+			}
+		},
+		{
+      "name": "[APACHE] - All",
+      "scope": "source.apacheconf",
+      "settings": {
+        "foreground": "#F09523"
+			}
+    },
+		{
+      "name": "[APACHE] - Keyword",
+      "scope": "source.apacheconf keyword",
+      "settings": {
+        "foreground": "#D1353B"
+			}
     },
     {
       "name": "Italics Operator Mono",
