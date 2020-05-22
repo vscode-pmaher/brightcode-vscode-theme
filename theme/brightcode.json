@@ -347,7 +347,7 @@
       "name": "[HTML] - Attribute Value",
       "scope": "string.quoted.double.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html",
       "settings": {
-        "foreground": "#FF00FF"
+        "foreground": "#00F2F2"
       }
     },
     {
